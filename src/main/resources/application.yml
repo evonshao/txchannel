@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: dev
+
+  application:
+    name: txbus
+
+  freemarker:
+    expose-spring-macro-helpers: true
